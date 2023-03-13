@@ -1,6 +1,6 @@
 # Veri Yapıları Ve Algoritmaları - Ödevleri
 ---
-## Marge Short
+## Marge Sort
 [16,21,11,8,12,22] sayısını atomlarına kadar ortadan böle böle devam ederiz.
 
 [16,21,11]- [8,12,22]
